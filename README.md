@@ -14,6 +14,6 @@ Run main.py file (filename hardcoded, need to change everytime)
 
 ## Example of Output
 
-![Example-1](/image/output.jpg)
+![Example-1](/image/output.png)
 
 ### Required training weights after copying repo. Use ipynb file.
